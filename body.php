@@ -5,7 +5,7 @@
       </a>
    </li>
    <li><a href="#register" data-toggle="tab">Form Pendaftaran</a></li>
-   <li><a href="#pengumuman" data-toggle="tab">pengumuman</a></li>
+   <li><a href="#pengumuman" data-toggle="tab">Pemberitahuan</a></li>
 </ul>
 <div id="myTabContent" class="tab-content">
    <div class="tab-pane fade in active" id="rules">
